@@ -34,5 +34,5 @@ The whole device would be built inside of a 3D printed structure, which would in
 *Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
 
 ## Funding
-Finances are available transparently at [HackClub Bank](bank.hackclub.com/peiprs-winter-wonderland)
+Finances are available transparently at [HackClub Bank](bank.hackclub.com/spotify-desk-thing)
 
