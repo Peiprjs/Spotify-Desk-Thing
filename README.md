@@ -1,3 +1,5 @@
+# This project has been shut down temporarily due to university work
+-----------------------------------------------------------------------------
 # Spotify-Desk-Thing
 
 
